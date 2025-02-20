@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сервера/LSB/2. Добавление чат сервера..md",
+                "file": "Сервера/LSB/3. Добавляем TLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Добавление чат сервера."
+              "title": "3. Добавляем TLS"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200.5
   },
   "right": {
     "id": "ec4d9d35775e3504",
@@ -171,8 +170,9 @@
   },
   "active": "85bed72f520b4b4e",
   "lastOpenFiles": [
-    "Сервера/LSB/1. Начало.md",
     "Сервера/LSB/2. Добавление чат сервера..md",
+    "Сервера/LSB/3. Добавляем TLS.md",
+    "Сервера/LSB/1. Начало.md",
     "Сервера/Архитектура игровых серверов.md",
     "Сервера/LSB",
     "MVVM.md",
