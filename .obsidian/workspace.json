@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpRequest. Получение данных запроса.md",
+                "file": "ASP.NET CORE/2. Основы в ASP.NET Core/3. Метод Run и определение терминального middleware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. HttpRequest. Получение данных запроса"
+              "title": "3. Метод Run и определение терминального middleware"
             }
           }
         ]
@@ -168,9 +168,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "494e85bb3b936dec",
+  "active": "85bed72f520b4b4e",
   "lastOpenFiles": [
+    "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpRequest. Получение данных запроса.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/5. HttpResponse. Отправка ответа..md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/6. Отправка файлов.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/7. Отправка форм.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/3. Метод Run и определение терминального middleware.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/2. Конвейер обработки запроса и middleware.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/1. Основы в ASP.NET Core.md",
@@ -189,9 +192,6 @@
     "ASP.NET CORE/img/Pasted image 20250512133344.png",
     "ASP.NET CORE/img/Pasted image 20250512133323.png",
     "ASP.NET CORE/img",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/7. Отправка форм.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/6. Отправка файлов.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpRequest. Получение данных запроса.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core",
     "ASP.NET CORE",
     "Сервера/LSB/2. Добавление чат сервера..md",
