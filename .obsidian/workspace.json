@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WinForms/MVVM.md",
+                "file": "ASP.NET CORE/2. Основы в ASP.NET Core/2. Конвейер обработки запроса и middleware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVVM"
+              "title": "2. Конвейер обработки запроса и middleware"
             }
           }
         ],
@@ -183,8 +183,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "494e85bb3b936dec",
+  "active": "d00f9473096180a0",
   "lastOpenFiles": [
+    "ASP.NET CORE/2. Основы в ASP.NET Core/3. Метод Run и определение терминального middleware.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpResponse. Отправка ответа..md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/5. HttpRequest. Получение данных запроса.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/6. Отправка файлов.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/7. Отправка форм.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/1. Основы в ASP.NET Core.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/2. Конвейер обработки запроса и middleware.md",
+    "WinForms/MVVM.md",
     "WinForms/DI.md",
     "Entity Framework Core/Бинарное дерево.canvas",
     "ASP.NET CORE/1. Введение в ASP.NET Core.md",
@@ -194,15 +202,7 @@
     "ASP.NET CORE/Без названия.md",
     "ASP.NET CORE/img",
     "ASP.NET CORE/img/Pasted image 20250512133323.png",
-    "WinForms/MVVM.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/1. Основы в ASP.NET Core.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/7. Отправка форм.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/6. Отправка файлов.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/5. HttpRequest. Получение данных запроса.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpResponse. Отправка ответа..md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/3. Метод Run и определение терминального middleware.md",
     "ASP.NET CORE/img/Pasted image 20250512141147.png",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/2. Конвейер обработки запроса и middleware.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core",
     "ASP.NET CORE/img/Pasted image 20250512133827.png",
     "ASP.NET CORE/img/Pasted image 20250512133723.png",
