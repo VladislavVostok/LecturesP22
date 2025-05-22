@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET CORE/2. Основы в ASP.NET Core/11. Загрузка файлов на сервер.md",
+                "file": "ASP.NET CORE/2. Основы в ASP.NET Core/13. Создание ветки конвейера. UseWhen и MapWhen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Загрузка файлов на сервер"
+              "title": "13. Создание ветки конвейера. UseWhen и MapWhen"
             }
           }
         ],
@@ -213,6 +213,8 @@
   },
   "active": "0703dafc194e5ae9",
   "lastOpenFiles": [
+    "ASP.NET CORE/2. Основы в ASP.NET Core/12. Метод Use.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/11. Загрузка файлов на сервер.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/10. Создание простейшего API.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/9. Отправка и получение json.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/8. Переадресация.md",
@@ -227,8 +229,6 @@
     "ASP.NET CORE/2. Основы в ASP.NET Core/15. Классы middleware.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/14. Метод Map.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/13. Создание ветки конвейера. UseWhen и MapWhen.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/12. Метод Use.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/11. Загрузка файлов на сервер.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/1. Основы в ASP.NET Core.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/2. Конвейер обработки запроса и middleware.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/5. HttpResponse. Отправка ответа..md",
