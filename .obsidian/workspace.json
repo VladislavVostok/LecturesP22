@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET CORE/2. Основы в ASP.NET Core/7. 2. Задачка. Создайте CRUD API для задач (добавление, получение, удаление)..md",
+                "file": "ASP.NET CORE/2. Основы в ASP.NET Core/9. Отправка и получение json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. 2. Задачка. Создайте CRUD API для задач (добавление, получение, удаление)."
-            }
-          },
-          {
-            "id": "0703dafc194e5ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP.NET CORE/2. Основы в ASP.NET Core/11. Загрузка файлов на сервер.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Загрузка файлов на сервер"
+              "title": "9. Отправка и получение json"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "ec4d9d35775e3504",
@@ -211,29 +197,29 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0703dafc194e5ae9",
+  "active": "5b36b58116f7ccbf",
   "lastOpenFiles": [
-    "ASP.NET CORE/2. Основы в ASP.NET Core/10. Создание простейшего API.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/9. Отправка и получение json.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/8. Переадресация.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/7. Отправка форм.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/6. Отправка файлов.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/7. 4. Прием JSON в POST-запросе.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/7. 2. Задачка. Создайте CRUD API для задач (добавление, получение, удаление)..md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/9. 1. Прием JSON в POST-запросе.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/7. 3. Задачка. Поиск по списку.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/7. 2. Задачка. Создайте CRUD API для задач (добавление, получение, удаление)..md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/7. 1. Задачка. Таблица умножения.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/1. Основы в ASP.NET Core.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/2. Конвейер обработки запроса и middleware.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/3. Метод Run и определение терминального middleware.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/5. HttpResponse. Отправка ответа..md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/6. Отправка файлов.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/11. Загрузка файлов на сервер.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/10. Создание простейшего API.md",
+    "ASP.NET CORE/2. Основы в ASP.NET Core/9. Отправка и получение json.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/17. IWebHostEnvironment и окружение.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/16. Построение конвейера обработки запроса.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/15. Классы middleware.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/14. Метод Map.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/13. Создание ветки конвейера. UseWhen и MapWhen.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/12. Метод Use.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/11. Загрузка файлов на сервер.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/1. Основы в ASP.NET Core.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/2. Конвейер обработки запроса и middleware.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/5. HttpResponse. Отправка ответа..md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpRequest. Получение данных запроса.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/3. Метод Run и определение терминального middleware.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpResponse. Отправка ответа..md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/5. HttpRequest. Получение данных запроса.md",
     "WinForms/MVVM.md",
