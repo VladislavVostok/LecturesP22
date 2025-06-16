@@ -14,7 +14,9 @@
 </html>
 ```
 
-Здесь вместо выражения `@DateTime.Now.ToShortTimeString()` при рендеринге представления будет вставляться текущее время:![[2.2.png]]
+Здесь вместо выражения `@DateTime.Now.ToShortTimeString()` при рендеринге представления будет вставляться текущее время:
+![[2.2.png]]
+
 
 Стоит отметить, что по умолчанию Razor подключает на страницы следующие пространства имен
 
@@ -88,7 +90,7 @@ using Microsoft.AspNetCore.Mvc.ViewFeatures;
 
 В Razor могут использоваться комментарии. Они располагаются между символами `@**@`:
 
-```html
+```cs
 @* текст комментария *@
 ```
 
@@ -107,6 +109,7 @@ using Microsoft.AspNetCore.Mvc.ViewFeatures;
     string hello = "Hello";
     int hour = DateTime.Now.Hour;
 }
+
 @if (hour < 12)
 {
     <h2>@morning</h2>
@@ -130,6 +133,7 @@ else
 @{
     string language = "german";
 }
+
 @switch(language)
 {
     case "russian":

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET CORE/3. Razor Pages/1_Основы/1_Введение в Razor Pages.md",
+                "file": "ASP.NET CORE/1. Введение в ASP.NET Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_Введение в Razor Pages"
+              "title": "1. Введение в ASP.NET Core"
             }
           },
           {
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 415.5
   },
   "right": {
     "id": "ec4d9d35775e3504",
@@ -198,6 +198,18 @@
   },
   "active": "85bed72f520b4b4e",
   "lastOpenFiles": [
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_5_Работа с формами. Tag-хелперы форм.md",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_4_Создание ссылок.md",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_3_Введение в tag-хелперы.md",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_2_Файл _ViewImports.cshtml.md",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_1_Мастер-страницы layout.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/16_ViewBag и ViewData.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/15_Передача зависимостей на страницу.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/5_Модель страницы Razor.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/4_Синтаксис Razor.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/3_Основы Razor Pages.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/2_Проект в Visual Studio Razor Pages.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/1_Введение в Razor Pages.md",
     "ASP.NET CORE/1. Введение в ASP.NET Core.md",
     "ASP.NET CORE/3. Razor Pages/images/3.8.png",
     "ASP.NET CORE/3. Razor Pages/images/3.7.png",
@@ -210,23 +222,11 @@
     "ASP.NET CORE/3. Razor Pages/images/3.1.png",
     "ASP.NET CORE/3. Razor Pages/images/2.9.png",
     "ASP.NET CORE/3. Razor Pages/images",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_5_Работа с формами. Tag-хелперы форм.md",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_4_Создание ссылок.md",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_3_Введение в tag-хелперы.md",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_2_Файл _ViewImports.cshtml.md",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_1_Мастер-страницы layout.md",
     "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса",
     "ASP.NET CORE/3. Razor Pages/1_Основы/9_Привязка свойств страниц и моделей Razor к параметрам запроса.md",
     "ASP.NET CORE/3. Razor Pages/1_Основы/8_POST-запросы и отправка форм.md",
     "ASP.NET CORE/3. Razor Pages/1_Основы/7_Передача данных на страницу Razor в GET-запросе.md",
     "ASP.NET CORE/3. Razor Pages/1_Основы/6_Обработка запросов. Контекст страницы Razor.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/5_Модель страницы Razor.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/4_Синтаксис Razor.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/3_Основы Razor Pages.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/2_Проект в Visual Studio Razor Pages.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/1_Введение в Razor Pages.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/16_ViewBag и ViewData.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/15_Передача зависимостей на страницу.md",
     "ASP.NET CORE/3. Razor Pages/1_Основы/14_Переадресация в Razor Pages.md",
     "ASP.NET CORE/3. Razor Pages/1_Основы/13_Отправка статусных кодов в Razor Pages.md",
     "ASP.NET CORE/3. Razor Pages/1_Основы/12_Отправка файлов в Razor Pages.md",
