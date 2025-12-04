@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET CORE/3. gRPC ASP .NET CORE.md",
+                "file": "React/Проект ~Protondoro~.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. gRPC ASP .NET CORE"
-            }
-          },
-          {
-            "id": "87e33af0cb19ffdf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.14"
+              "title": "Проект ~Protondoro~"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,12 +169,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "87e33af0cb19ffdf",
+  "active": "0703dafc194e5ae9",
   "lastOpenFiles": [
+    "React/Техническое задание Protondoro.md",
+    "React/Проект ~Protondoro~.md",
+    "React/img/img.7z",
+    "React/img/img.7z.tmp",
+    "React/img/img.rar",
+    "ASP.NET CORE/3. gRPC ASP .NET CORE.md",
+    "React/Проект на реакте.md",
+    "React/img/photo_2025-12-02_20-11-28.jpg",
+    "React/img/photo_2025-12-02_20-11-28 (2).jpg",
+    "React/img/photo_2025-12-02_19-58-58.jpg",
+    "React/img/photo_2025-12-02_19-58-58 (2).jpg",
+    "React/img",
+    "Без названия.md",
+    "React",
     "ASP.NET CORE/2. Основы в ASP.NET Core/1. Основы в ASP.NET Core.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/12. Метод Use.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/7. 2. Задачка. Создайте CRUD API для задач (добавление, получение, удаление)..md",
-    "ASP.NET CORE/3. gRPC ASP .NET CORE.md",
     "ASP.NET CORE/1. Введение в ASP.NET Core.md",
     "C#/Абстрактные классы.md",
     "C#/Атрибуты в .NET.md",
@@ -206,10 +206,6 @@
     "ASP.NET CORE/2. Основы в ASP.NET Core/16. Построение конвейера обработки запроса.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/15. Классы middleware.md",
     "ASP.NET CORE/2. Основы в ASP.NET Core/2. Конвейер обработки запроса и middleware.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/5. HttpResponse. Отправка ответа..md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpRequest. Получение данных запроса.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/3. Метод Run и определение терминального middleware.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/4. HttpResponse. Отправка ответа..md",
     "Entity Framework Core/Бинарное дерево.canvas",
     "ASP.NET CORE/img/Pasted image 20250512141155.png",
     "ASP.NET CORE/img/Pasted image 20250512133737.png",
@@ -219,10 +215,6 @@
     "ASP.NET CORE/img/Pasted image 20250512141147.png",
     "ASP.NET CORE/2. Основы в ASP.NET Core",
     "ASP.NET CORE/img/Pasted image 20250512133827.png",
-    "ASP.NET CORE/img/Pasted image 20250512133723.png",
-    "ASP.NET CORE/img/Pasted image 20250512133439.png",
-    "ASP.NET CORE/img/Pasted image 20250512133414.png",
-    "ASP.NET CORE/img/Pasted image 20250512133344.png",
     "ASP.NET CORE",
     "Сервера/LSB",
     "Сервера"
