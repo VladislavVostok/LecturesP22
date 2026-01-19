@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Экзамен 15.01.2026/react_spa_tasks.md",
+                "file": "Entity Framework Core/2. Провайдеры баз данных/2.1. MS SQL Server (Продолжить отсюда).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react_spa_tasks"
+              "title": "2.1. MS SQL Server (Продолжить отсюда)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 475.5
   },
   "right": {
     "id": "ec4d9d35775e3504",
@@ -150,6 +150,20 @@
               "icon": "lucide-list",
               "title": "Структура Добро пожаловать"
             }
+          },
+          {
+            "id": "9f7c0172f28f389f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
           }
         ]
       }
@@ -171,52 +185,52 @@
   },
   "active": "0703dafc194e5ae9",
   "lastOpenFiles": [
+    "Entity Framework Core/2. Провайдеры баз данных/2.2. MySQL.md",
+    "Entity Framework Core/2. Провайдеры баз данных/2.1. MS SQL Server (Продолжить отсюда).md",
     "Entity Framework Core/1. Введение/1.8. Управление схемой БД и миграции.md",
-    "React/Экзамен 15.01.2026/react_spa_tasks.md",
-    "React/Экзамен 15.01.2026/Без названия.md",
-    "React/Экзамен 15.01.2026",
-    "Entity Framework Core/1. Введение/1.7. Логгирование операций(Продолжить отсюда).md",
-    "Entity Framework Core/1. Введение/1.5. Основные операции с данными. CRUD.md",
-    "Entity Framework Core/1. Введение/1.5. Основные операции с данными. CRUD (Продолжение).md",
-    "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
-    "Entity Framework Core/1. Введение/1.3. Подключение к существующей базе данных.md",
-    "Entity Framework Core/1. Введение/1.2. Первое приложение на Entity Framework Core.md",
+    "Entity Framework Core/1. Введение/1.7. Логгирование операций.md",
+    "Entity Framework Core/1. Введение/1.6. Конфигурация подключения.md",
     "Entity Framework Core/1. Введение/1.1. Что такое Entity Framework Core.md",
-    "React/Проект ~Protondoro~.md",
-    "React/Техническое задание Protondoro.md",
+    "React/Экзамен 15.01.2026/react_spa_tasks.md",
+    "ASP.NET CORE/3. Razor Pages/images/3.8.png",
+    "ASP.NET CORE/3. Razor Pages/images/3.7.png",
+    "ASP.NET CORE/3. Razor Pages/images/3.5.png",
+    "ASP.NET CORE/3. Razor Pages/images/3.4.png",
+    "ASP.NET CORE/3. Razor Pages/images/3.2.png",
+    "ASP.NET CORE/3. Razor Pages/images/3.13.png",
+    "ASP.NET CORE/3. Razor Pages/images/3.11.png",
+    "ASP.NET CORE/3. Razor Pages/images/3.10.png",
+    "ASP.NET CORE/3. Razor Pages/images/3.1.png",
+    "ASP.NET CORE/3. Razor Pages/images/2.9.png",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_5_Работа с формами. Tag-хелперы форм.md",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_4_Создание ссылок.md",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_3_Введение в tag-хелперы.md",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_2_Файл _ViewImports.cshtml.md",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_1_Мастер-страницы layout.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/9_Привязка свойств страниц и моделей Razor к параметрам запроса.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/8_POST-запросы и отправка форм.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/7_Передача данных на страницу Razor в GET-запросе.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/6_Обработка запросов. Контекст страницы Razor.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/5_Модель страницы Razor.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/4_Синтаксис Razor.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/3_Основы Razor Pages.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/2_Проект в Visual Studio Razor Pages.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/1_Введение в Razor Pages.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/16_ViewBag и ViewData.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/15_Передача зависимостей на страницу.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/14_Переадресация в Razor Pages.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/13_Отправка статусных кодов в Razor Pages.md",
+    "ASP.NET CORE/3. Razor Pages/1_Основы/12_Отправка файлов в Razor Pages.md",
+    "ASP.NET CORE/3. Razor Pages/images",
+    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса",
+    "ASP.NET CORE/3. Razor Pages/1_Основы",
+    "ASP.NET CORE/3. Razor Pages",
+    "React/Экзамен 15.01.2026",
     "React/img/img.7z",
     "React/img/img.7z.tmp",
     "React/img/img.rar",
-    "ASP.NET CORE/3. gRPC ASP .NET CORE.md",
-    "React/Проект на реакте.md",
-    "React/img/photo_2025-12-02_20-11-28.jpg",
-    "React/img/photo_2025-12-02_20-11-28 (2).jpg",
-    "React/img/photo_2025-12-02_19-58-58.jpg",
-    "React/img/photo_2025-12-02_19-58-58 (2).jpg",
     "React/img",
-    "Без названия.md",
     "React",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/1. Основы в ASP.NET Core.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/12. Метод Use.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/7. 2. Задачка. Создайте CRUD API для задач (добавление, получение, удаление)..md",
-    "ASP.NET CORE/1. Введение в ASP.NET Core.md",
-    "C#/Абстрактные классы.md",
-    "C#/Атрибуты в .NET.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/13. Создание ветки конвейера. UseWhen и MapWhen.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/14. Метод Map.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/11. Загрузка файлов на сервер.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/10. Создание простейшего API.md",
-    "ASP.NET CORE/2. Основы в ASP.NET Core/9. Отправка и получение json.md",
-    "Entity Framework Core/Бинарное дерево.canvas",
-    "ASP.NET CORE/img/Pasted image 20250512141155.png",
-    "ASP.NET CORE/img/Pasted image 20250512133737.png",
-    "ASP.NET CORE/img/Pasted image 20250512142626.png",
-    "ASP.NET CORE/img",
-    "ASP.NET CORE/img/Pasted image 20250512133323.png",
-    "ASP.NET CORE/img/Pasted image 20250512141147.png",
-    "ASP.NET CORE/2. Основы в ASP.NET Core",
-    "ASP.NET CORE/img/Pasted image 20250512133827.png",
-    "ASP.NET CORE",
-    "Сервера/LSB"
+    "Entity Framework Core/Бинарное дерево.canvas"
   ]
 }
