@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entity Framework Core/1. Введение/1.7. Логгирование операций.md",
+                "file": "Entity Framework Core/4. Отношения между моделями/4.6. Отношение один к одному.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7. Логгирование операций"
+              "title": "4.6. Отношение один к одному"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 487.5
   },
   "right": {
     "id": "cc85f97e21dbee86",
@@ -174,17 +174,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "a2a57c92ae7e1a22",
   "lastOpenFiles": [
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.14. Хранимые процедуры.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.1. Введение в LINQ to Entities.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.3. Свойства сущности.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.2. Определение моделей.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.1. Fluent API и аннотации данных.md",
+    "Entity Framework Core/2. Провайдеры баз данных/2.3. PostgreSQL.md",
+    "Entity Framework Core/2. Провайдеры баз данных/2.2. MySQL.md",
+    "Entity Framework Core/2. Провайдеры баз данных/2.1. MS SQL Server.md",
+    "Entity Framework Core/1. Введение/1.8. Управление схемой БД и миграции.md",
+    "Entity Framework Core/1. Введение/1.7. Логгирование операций.md",
     "Entity Framework Core/1. Введение/1.6. Конфигурация подключения.md",
     "Entity Framework Core/1. Введение/1.5. Основные операции с данными. CRUD.md",
     "React/Проект ~Protondoro~.md",
