@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entity Framework Core/2. Провайдеры баз данных/2.1. MS SQL Server (Продолжить отсюда).md",
+                "file": "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов (Отсановились тут).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1. MS SQL Server (Продолжить отсюда)"
+              "title": "3.9. Настройка индексов (Отсановились тут)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 337.5
   },
   "right": {
     "id": "ec4d9d35775e3504",
@@ -183,10 +183,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0703dafc194e5ae9",
+  "active": "494e85bb3b936dec",
   "lastOpenFiles": [
-    "Entity Framework Core/2. Провайдеры баз данных/2.2. MySQL.md",
     "Entity Framework Core/2. Провайдеры баз данных/2.1. MS SQL Server (Продолжить отсюда).md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов.md",
+    "Entity Framework Core/2. Провайдеры баз данных/2.1. MS SQL Server.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов (Отсановились тут).md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.8. Настройка ключей.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.7. Обязательные и необязательные свойства.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.2. Выборка и фильтрация.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.6. Сопоставление таблиц и столбцов.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.5. Использование полей сущности.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.4. Конструкторы сущностей.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.3. Свойства сущности.md",
+    "Entity Framework Core/2. Провайдеры баз данных/2.3. PostgreSQL.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.1. Fluent API и аннотации данных.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.2. Определение моделей.md",
+    "Entity Framework Core/2. Провайдеры баз данных/2.2. MySQL.md",
     "Entity Framework Core/1. Введение/1.8. Управление схемой БД и миграции.md",
     "Entity Framework Core/1. Введение/1.7. Логгирование операций.md",
     "Entity Framework Core/1. Введение/1.6. Конфигурация подключения.md",
@@ -208,19 +221,6 @@
     "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_2_Файл _ViewImports.cshtml.md",
     "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_1_Мастер-страницы layout.md",
     "ASP.NET CORE/3. Razor Pages/1_Основы/9_Привязка свойств страниц и моделей Razor к параметрам запроса.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/8_POST-запросы и отправка форм.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/7_Передача данных на страницу Razor в GET-запросе.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/6_Обработка запросов. Контекст страницы Razor.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/5_Модель страницы Razor.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/4_Синтаксис Razor.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/3_Основы Razor Pages.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/2_Проект в Visual Studio Razor Pages.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/1_Введение в Razor Pages.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/16_ViewBag и ViewData.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/15_Передача зависимостей на страницу.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/14_Переадресация в Razor Pages.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/13_Отправка статусных кодов в Razor Pages.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/12_Отправка файлов в Razor Pages.md",
     "ASP.NET CORE/3. Razor Pages/images",
     "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса",
     "ASP.NET CORE/3. Razor Pages/1_Основы",
