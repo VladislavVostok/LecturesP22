@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов (Отсановились тут).md",
+                "file": "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.9. Настройка индексов (Отсановились тут)"
+              "title": "3.9. Настройка индексов"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 428.5
   },
   "right": {
     "id": "ec4d9d35775e3504",
@@ -183,12 +183,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "494e85bb3b936dec",
+  "active": "0703dafc194e5ae9",
   "lastOpenFiles": [
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.13. Инициализация БД начальными данными.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.12. Конфигурация моделей.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.11. Установка ограничений.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.10. Генерация значений свойств и столбцов.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов.md",
+    "Entity Framework Core/Бинарное дерево.canvas",
+    "Entity Framework Core/1. Введение/1.2. Первое приложение на Entity Framework Core.md",
+    "Entity Framework Core/1. Введение/1.1. Что такое Entity Framework Core.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.1. Fluent API и аннотации данных.md",
+    "React/Экзамен 15.01.2026/react_spa_tasks.md",
     "Entity Framework Core/2. Провайдеры баз данных/2.1. MS SQL Server (Продолжить отсюда).md",
     "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов.md",
     "Entity Framework Core/2. Провайдеры баз данных/2.1. MS SQL Server.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов (Отсановились тут).md",
     "Entity Framework Core/3. Создание модели в Entity Framework Core/3.8. Настройка ключей.md",
     "Entity Framework Core/3. Создание модели в Entity Framework Core/3.7. Обязательные и необязательные свойства.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.2. Выборка и фильтрация.md",
@@ -197,14 +206,11 @@
     "Entity Framework Core/3. Создание модели в Entity Framework Core/3.4. Конструкторы сущностей.md",
     "Entity Framework Core/3. Создание модели в Entity Framework Core/3.3. Свойства сущности.md",
     "Entity Framework Core/2. Провайдеры баз данных/2.3. PostgreSQL.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.1. Fluent API и аннотации данных.md",
     "Entity Framework Core/3. Создание модели в Entity Framework Core/3.2. Определение моделей.md",
     "Entity Framework Core/2. Провайдеры баз данных/2.2. MySQL.md",
     "Entity Framework Core/1. Введение/1.8. Управление схемой БД и миграции.md",
     "Entity Framework Core/1. Введение/1.7. Логгирование операций.md",
     "Entity Framework Core/1. Введение/1.6. Конфигурация подключения.md",
-    "Entity Framework Core/1. Введение/1.1. Что такое Entity Framework Core.md",
-    "React/Экзамен 15.01.2026/react_spa_tasks.md",
     "ASP.NET CORE/3. Razor Pages/images/3.8.png",
     "ASP.NET CORE/3. Razor Pages/images/3.7.png",
     "ASP.NET CORE/3. Razor Pages/images/3.5.png",
@@ -216,11 +222,6 @@
     "ASP.NET CORE/3. Razor Pages/images/3.1.png",
     "ASP.NET CORE/3. Razor Pages/images/2.9.png",
     "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_5_Работа с формами. Tag-хелперы форм.md",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_4_Создание ссылок.md",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_3_Введение в tag-хелперы.md",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_2_Файл _ViewImports.cshtml.md",
-    "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса/2_1_Мастер-страницы layout.md",
-    "ASP.NET CORE/3. Razor Pages/1_Основы/9_Привязка свойств страниц и моделей Razor к параметрам запроса.md",
     "ASP.NET CORE/3. Razor Pages/images",
     "ASP.NET CORE/3. Razor Pages/2_Определение пользовательского интерфейса",
     "ASP.NET CORE/3. Razor Pages/1_Основы",
@@ -230,7 +231,6 @@
     "React/img/img.7z.tmp",
     "React/img/img.rar",
     "React/img",
-    "React",
-    "Entity Framework Core/Бинарное дерево.canvas"
+    "React"
   ]
 }
