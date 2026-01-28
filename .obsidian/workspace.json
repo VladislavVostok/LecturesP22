@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entity Framework Core/4. Отношения между моделями/4.5. Lazy loading.md",
+                "file": "Entity Framework Core/4. Отношения между моделями/4.9. ДЗ_6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.5. Lazy loading"
+              "title": "4.9. ДЗ_6"
             }
           }
         ]
@@ -183,12 +183,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0703dafc194e5ae9",
+  "active": "494e85bb3b936dec",
   "lastOpenFiles": [
-    "Entity Framework Core/4. Отношения между моделями/4.6. Отношение один к одному(от сюда).md",
-    "Entity Framework Core/4. Отношения между моделями/4.5. Lazy loading.md",
-    "Entity Framework Core/4. Отношения между моделями/4.8. Отношение многие ко многим.md",
+    "Entity Framework Core/4. Отношения между моделями/4.9. ДЗ_6.md",
+    "Entity Framework Core/4. Отношения между моделями/4.9. ДЗ_6.md",
     "Entity Framework Core/4. Отношения между моделями/4.7. Отношение один ко многим.md",
+    "Entity Framework Core/4. Отношения между моделями/4.8. ДЗ_6.md",
+    "Entity Framework Core/4. Отношения между моделями/4.8. ДЗ_6_ОтношенияМеждуТаблицами.md",
+    "Entity Framework Core/4. Отношения между моделями/4.5. Lazy loading.md",
+    "Entity Framework Core/4. Отношения между моделями/4.6. Отношение один к одному(от сюда).md",
+    "Entity Framework Core/4. Отношения между моделями/4.8. Отношение многие ко многим.md",
     "Entity Framework Core/4. Отношения между моделями/4.4. Загрузка связанных данных. Метод Include..md",
     "Entity Framework Core/4. Отношения между моделями/4.3. Каскадное удаление.md",
     "Entity Framework Core/4. Отношения между моделями/4.2. Настройка внешнего ключа через аннотации данных и Fluent API.md",
@@ -208,10 +212,6 @@
     "Entity Framework Core/3. Создание модели в Entity Framework Core/3.8. Настройка ключей.md",
     "Entity Framework Core/3. Создание модели в Entity Framework Core/3.7. Обязательные и необязательные свойства.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.2. Выборка и фильтрация.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.6. Сопоставление таблиц и столбцов.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.5. Использование полей сущности.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.4. Конструкторы сущностей.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.3. Свойства сущности.md",
     "ASP.NET CORE/3. Razor Pages/images/3.8.png",
     "ASP.NET CORE/3. Razor Pages/images/3.7.png",
     "ASP.NET CORE/3. Razor Pages/images/3.5.png",
